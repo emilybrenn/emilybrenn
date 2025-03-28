@@ -10,8 +10,8 @@
 
 --------------What I'm Up to Lately--------------
 
-🎩 Top of mind: The Arthur C. Clarke quote “Any sufficiently advanced technology is indistinguishable from magic” came up at a conference a few weeks ago re: AI enhancements. I'm thinking alot about how we can be harder / better / faster / stronger in our current workflows with AI…but that the true magic happens when we have intention and use these tools to deliver outcome-oriented transformation.
+🎩 Top of mind: The quote “Any sufficiently advanced technology is indistinguishable from magic.” came up at a recent AI conference, and I’ve been thinking on it. The magic isn’t just in getting harder / better / faster / stronger with AI experiments...it’s in using it intentionally to drive real, outcome-focused change.
   
-👩🏻‍💻 Working on: A customer journey scorecard of topline metrics for our C-Suite to better socialize our customer pain points at scale for stretgic fluency across departments.
+👩🏻‍💻 Working on: A customer journey scorecard of topline metrics for execs to better socialize our customer pain points for strategic fluency across functions.
 
 🍿 Watching: "Fallout" on Amazon Prime—loved the games and love the show even more!
