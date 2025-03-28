@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**emilybrenn/emilybrenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m @emilybrenn
 
-Here are some ideas to get you started:
+🦄 I’m product & program manager focused on customer-centered strategies to drive both business revenue and customer outcomes!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: emilybrenn@gmail.com
+
+🏆 2025 "One to Watch in Customer Success." Most Innovative CS Initiative shortlist. Women in CX Collaboration Award nominee. 2x Webby Award winner.
+
+--------------What I'm Up to Lately--------------
+
+🎩 Top of mind: The Arthur C. Clarke quote “Any sufficiently advanced technology is indistinguishable from magic” came up at a conference a few weeks ago re: AI enhancements. I'm thinking alot about how we can be harder / better / faster / stronger in our current workflows with AI…but that the true magic happens when we have intention and use these tools to deliver outcome-oriented transformation.
+  
+👩🏻‍💻 Working on: A customer journey scorecard of topline metrics for our C-Suite to better socialize our customer pain points at scale for stretgic fluency across departments.
+
+🍿 Watching: "Fallout" on Amazon Prime—loved the games and love the show even more!
