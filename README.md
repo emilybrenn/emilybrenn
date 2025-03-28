@@ -4,7 +4,7 @@
 
 🦄 I’m product & program manager focused on customer-centered strategies to drive both business revenue and customer outcomes!
 
-📫 How to reach me: emilybrenn@gmail.com
+🍕 Working remotely from NJ
 
 🏆 2025 "One to Watch in Customer Success." Most Innovative CS Initiative shortlist. Women in CX Collaboration Award nominee. 2x Webby Award winner.
 
